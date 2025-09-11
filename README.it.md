@@ -20,21 +20,31 @@ L'app salva tutti i dati localmente sul dispositivo dell'utente utilizzando un d
 
 ## 📱 Schermate
 
+Le schermate di seguito sono in inglese, ma in realtà l'app ha anche la traduzione in italiano.
+
 ### ☀️ Tema chiaro
 
-<div display="flex">
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-1.png" alt="Screenshot 1" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-2.png" alt="Screenshot 2" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-3.png" alt="Screenshot 3" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-4.png" alt="Screenshot 4" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-5.png" alt="Screenshot 5" width="200px" />
+<div display="flex"> 
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-01.png" alt="Screenshot 1" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-02.png" alt="Screenshot 2" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-03.png" alt="Screenshot 3" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-04.png" alt="Screenshot 4" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-05.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-06.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-07.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-08.png" alt="Screenshot 5" width="200px" />
 </div>
 
 ### 🌙 Tema scuro
+
 <div display="flex">
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-6.png" alt="Screenshot 6" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-7.png" alt="Screenshot 7" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-8.png" alt="Screenshot 8" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-9.png" alt="Screenshot 9" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/it/screenshot-10.png" alt="Screenshot 10" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-01.png" alt="Screenshot 1" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-02.png" alt="Screenshot 2" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-03.png" alt="Screenshot 3" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-04.png" alt="Screenshot 4" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-05.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-06.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-07.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-08.png" alt="Screenshot 5" width="200px" />
 </div>
+

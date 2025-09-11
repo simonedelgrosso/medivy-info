@@ -23,25 +23,25 @@ The app stores all data locally on the user's device using an internal database.
 ### ☀️ Light theme
 
 <div display="flex"> 
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-01.png" alt="Screenshot 1" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-02.png" alt="Screenshot 2" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-03.png" alt="Screenshot 3" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-04.png" alt="Screenshot 4" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-05.png" alt="Screenshot 5" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-06.png" alt="Screenshot 5" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-07.png" alt="Screenshot 5" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot-08.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_01.png" alt="Screenshot 1" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_02.png" alt="Screenshot 2" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_03.png" alt="Screenshot 3" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_04.png" alt="Screenshot 4" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_05.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_06.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_07.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/light/screenshot_08.png" alt="Screenshot 5" width="200px" />
 </div>
 
 ### 🌙 Dark Theme
 
 <div display="flex">
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-01.png" alt="Screenshot 1" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-02.png" alt="Screenshot 2" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-03.png" alt="Screenshot 3" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-04.png" alt="Screenshot 4" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-05.png" alt="Screenshot 5" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-06.png" alt="Screenshot 5" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-07.png" alt="Screenshot 5" width="200px" />
-  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot-08.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_01.png" alt="Screenshot 1" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_02.png" alt="Screenshot 2" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_03.png" alt="Screenshot 3" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_04.png" alt="Screenshot 4" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_05.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_06.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_07.png" alt="Screenshot 5" width="200px" />
+  <img src="https://github.com/simonedelgrosso/medivy-info/blob/main/imgs/screenshots/dark/screenshot_08.png" alt="Screenshot 5" width="200px" />
 </div>

@@ -15,6 +15,7 @@ Dopo un'attenta riflessione, ho deciso di non pubblicare né distribuire questa 
 - Ricevere notifiche come promemoria
 - Tenere traccia delle dosi prese
 - Tema chiaro e scuro  
+- Lingue Inglese e Italiano  
 
 L'app salva tutti i dati localmente sul dispositivo dell'utente utilizzando un database interno. Gli unici permessi richiesti sono quelli per l'invio delle notifiche.
 
